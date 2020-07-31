@@ -1,5 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+I'm [@the456gamer](https://github.com/the456gamer)!
 
+# Table of Contents 
+
+<!-- Generate with "~/Projects/github/github-markdown-toc/gh-md-toc" -->
+
+# About me
+I am a teenager that does some stuff on the internet (sometimes...)
 <!--
 **the456gamer/the456gamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
