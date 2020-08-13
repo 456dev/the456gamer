@@ -7,6 +7,15 @@ I'm [@the456gamer](https://github.com/the456gamer)!
 
 # About me
 I am a teenager that does some stuff on the internet (sometimes...)
+
+# My Accounts
+these are some of my online profiles
+you might be able to reach me on some of these...
+<!-- TODO: change to permalink (302 redirect on nginx server) -->
+- [@the456gamer#0456](https://discord.gg/aMpbQD6) (<@324638236196601869>) on discord
+- [@the456gamer](https://twitter.com/the456gamer) on twitter
+- [/u/The456gamer](https://reddit.com/user/the456gamer) on reddit
+
 <!--
 **the456gamer/the456gamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
