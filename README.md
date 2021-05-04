@@ -22,11 +22,13 @@ you might be able to reach me on some of these...
 - [/u/The456gamer](https://reddit.com/user/the456gamer) on reddit
 - [@the456gamer](https://www.spigotmc.org/members/the456gamer.454420/) on Spigotmc.org
 
+<!--
 # My Projects
 Sometimes is bite off more than i can chew and get bored of a project.
 heres my current one :)
 > Ceabot, a discord bot written in discord.py.
 it will eventually be public, just once its in a working state, and i use it.
+-->
 <!--
 **the456gamer/the456gamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
