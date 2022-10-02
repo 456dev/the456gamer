@@ -19,18 +19,11 @@ I am a teenager that does some stuff on the internet (sometimes...)
 these are some of my online profiles
 you might be able to reach me on some of these...
 <!-- TODO: change to permalink (302 redirect on nginx server) -->
-- [@the456gamer#0456](https://discord.gg/aMpbQD6) (<@324638236196601869>) on discord
+- @the456gamer#3999 (<@324638236196601869>) on discord
 - [@the456gamer](https://twitter.com/the456gamer) on twitter
 - [/u/The456gamer](https://reddit.com/user/the456gamer) on reddit
 - [@the456gamer](https://www.spigotmc.org/members/the456gamer.454420/) on Spigotmc.org
 
-<!--
-# My Projects
-Sometimes is bite off more than i can chew and get bored of a project.
-heres my current one :)
-> Ceabot, a discord bot written in discord.py.
-it will eventually be public, just once its in a working state, and i use it.
--->
 <!--
 **the456gamer/the456gamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
